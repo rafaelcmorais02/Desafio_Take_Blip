@@ -1,0 +1,12 @@
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.exe
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.deps.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.runtimeconfig.json
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\DesafioTake.pdb
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\RAFAEL\BOOTCAMP\TAKEBLIP\DOTNET\DesafioTake\DesafioTake\DesafioTake\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

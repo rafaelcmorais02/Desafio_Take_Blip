@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DesafioTake</name>
+    </assembly>
+    <members>
+        <member name="M:DesafioTake.Controllers.desafio.Obter(System.Int32)">
+            <summary>
+            Api que se comunica com a Api do GitHub para retornar a lista de repositórios da TakeBlip
+            </summary>
+            <param name="id">Em ordem crescente de data de criação e a partir do índice 0, qual repositório o usuário deseja retornar</param>
+            <returns>Retorna os seguintes dados do repositório: nome, descrição, avatar e data de criação</returns>
+        </member>
+    </members>
+</doc>
